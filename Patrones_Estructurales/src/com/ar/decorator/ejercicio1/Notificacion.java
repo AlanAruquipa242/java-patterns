@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package patrones_estructurales;
+package com.ar.decorator.ejercicio1;
 
 /**
  *
  * @author vendosimplepc3
  */
-public interface ArbolNavidad {
-    String decorar();
+public interface Notificacion {
+    void enviarMensaje(String mensaje);
 }

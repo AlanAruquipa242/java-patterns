@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package patrones_estructurales;
+package com.ar.decorator;
 
 
 public class BulbaLuz extends ArbolDecorador{
